@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "python.pythonPath": "/usr/bin/python3"
+}

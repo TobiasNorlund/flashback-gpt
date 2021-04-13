@@ -2,7 +2,7 @@
 
 # Flashback-GPT
 
-This is the official repo to the paper [Building a Swedish Open-Domain Conversational Language Model](#),
+This is the official repo to the paper [Building a Swedish Open-Domain Conversational Language Model](https://arxiv.org/abs/2104.05277),
 published at NoDaLiDa 2021.
 
 ## Demo
@@ -37,5 +37,12 @@ We will consider requests on a case by case basis, and leave no guarantees for w
 To cite the paper, please use the following bibtex:
 
 ```
-TBA
+@misc{norlund2021building,
+      title={Building a Swedish Open-Domain Conversational Language Model}, 
+      author={Tobias Norlund and Agnes Stenbom},
+      year={2021},
+      eprint={2104.05277},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```

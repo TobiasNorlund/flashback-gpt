@@ -37,12 +37,17 @@ We will consider requests on a case by case basis, and leave no guarantees for w
 To cite the paper, please use the following bibtex:
 
 ```
-@misc{norlund2021building,
-      title={Building a Swedish Open-Domain Conversational Language Model}, 
-      author={Tobias Norlund and Agnes Stenbom},
-      year={2021},
-      eprint={2104.05277},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{norlund-stenbom-2021-building,
+    title = "Building a {S}wedish Open-Domain Conversational Language Model",
+    author = "Norlund, Tobias  and
+      Stenbom, Agnes",
+    booktitle = "Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa)",
+    month = may # " 31--2 " # jun,
+    year = "2021",
+    address = "Reykjavik, Iceland (Online)",
+    publisher = {Link{\"o}ping University Electronic Press, Sweden},
+    url = "https://aclanthology.org/2021.nodalida-main.38",
+    pages = "357--366",
+    abstract = "We present on-going work of evaluating the, to our knowledge, first large generative language model trained to converse in Swedish, using data from the online discussion forum Flashback. We conduct a human evaluation pilot study that indicates the model is often able to respond to conversations in both a human-like and informative manner, on a diverse set of topics. While data from online forums can be useful to build conversational systems, we reflect on the negative consequences that incautious application might have, and the need for taking active measures to safeguard against them.",
 }
 ```

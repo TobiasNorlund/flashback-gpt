@@ -12,7 +12,7 @@ A demo of the model in a chatbot format can be found at [this link](http://flash
 ## Usage
 
 The code in this repo is intended to be executed in a Docker container, which requires you to have Docker installed on your system.
-To build and start the docker container, just run the `scripts/start.sh` script. 
+To build and start the docker container, just run the `./start.sh` script. 
 Optionally, specify the `--gpu` argument to pass all available GPUs on your system to the docker container (requires Nvidia Container Toolkit).
 You will need to download and extract the model files in the `data/` directory to use the trained model, see "Model release below" on how to request access.
 
